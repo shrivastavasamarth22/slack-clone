@@ -9,7 +9,7 @@ const WorkspaceIdPage = () => {
 
 	return (
 		<div>
-			<h1>Data: {JSON.stringify(data)}</h1>
+			<h1>Hello</h1>
 		</div>
 	);
 };
