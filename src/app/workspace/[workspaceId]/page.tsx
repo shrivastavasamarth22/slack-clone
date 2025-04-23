@@ -9,7 +9,7 @@ const WorkspaceIdPage = () => {
 
 	return (
 		<div>
-			<h1>Hello</h1>
+			<h1>Workspace Id Page</h1>
 		</div>
 	);
 };
